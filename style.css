@@ -1,0 +1,39 @@
+body{
+   background-color: greenyellow;
+}
+
+h1,h2,h3{
+padding-bottom: 25px;
+}
+h1,h2{
+   text-align: center;
+}
+#h3{
+   text-align: end;
+}
+
+#h2{
+   text-align: center;
+}
+
+#left{
+   color: rgb(0, 162, 255);
+}
+
+#center{
+   text-align: center;
+   color: blue;
+}
+
+#end{
+   text-align: end;
+   color: darkblue;
+}
+
+#h1,#h2,#etc{
+  color: rgb(0, 195, 255);
+}
+
+#image{
+   align-items: center;
+}
